@@ -7,7 +7,7 @@
     "points": 3,
     "skills": [ { "level": 1, "name": "mechanics" },{ "level": 1, "name": "electronics" },{ "level": 2, "name": "driving" } ],
     "vehicle": "solarelectric_bus",
-	"items": {
+	  "items": {
       "both": {
         "items": [
           "tank_top",
@@ -25,15 +25,15 @@
       "female": [ "bra", "boy_shorts" ]
     }
   },
-{
+  {
     "type": "profession",
     "id": "heli_solartestpilot",
     "name": "Solar Helicopter Test Pilot",
     "description": "You were a highly trained professional independent pilot contractor, hired on by some private R&D facility to test out a cutting edge solar-powered helicopter. On the day the test launched, so did the Cataclysm. Judging from what you saw up above, you really shouldn't head back to that lab any time soon, and you doubt they'll be missing the prototype.",
     "points": 8,
     "skills": [ { "level": 5, "name": "driving" }, { "level": 1, "name": "speech" }, { "level": 2, "name": "mechanics" }, { "level": 3, "name": "electronics" }, { "level": 2, "name": "computer" } ],
-	"vehicle": "civilianhelicopter_solarsoarer",
-	"items": {
+	  "vehicle": "civilianhelicopter_solarsoarer",
+	  "items": {
       "both": {
         "items": [ "jumpsuit", "socks", "smart_phone", "sneakers", "game_watch", "sunglasses", "helmet_ball" ],
         "entries": [ { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] } ]
@@ -59,15 +59,15 @@
       "female": [ "bra", "boy_shorts" ]
     }
   },
-{
+  {
     "type": "profession",
     "id": "heli_pilotskylark",
     "name": "Luxury Helicopter Pilot",
     "description": "You owned your own miniature airline bracket, ferrying CEOs and millionaires from helipad to helipad. The Cataclysm has grounded you, but the sky still calls you…",
     "points": 6,
     "skills": [ { "level": 4, "name": "driving" }, { "level": 2, "name": "speech" }, { "level": 2, "name": "mechanics" }, { "level": 2, "name": "electronics" }, { "level": 1, "name": "computer" } ],
-	"vehicle": "civilianhelicopter_skylark",
-	"items": {
+	  "vehicle": "civilianhelicopter_skylark",
+	  "items": {
       "both": {
         "items": [ "pants", "socks_wool", "dress_shirt", "smart_phone", "dress_shoes", "gold_watch", "fancy_sunglasses" ],
         "entries": [ { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] } ]
@@ -76,7 +76,7 @@
       "female": [ "bra", "boy_shorts" ]
     }
   },
-{
+  {
     "type": "profession",
     "id": "mili_THGTransportpilot",
     "name": "Military Transport Pilot",
@@ -101,7 +101,7 @@
           "wristwatch",
           "fancy_sunglasses",
           "gloves_tactical",
-		  "flak vest",
+		      "flak vest",
           "helmet_army",
           "webbing_belt",
           "legpouch_large"
@@ -144,7 +144,7 @@
           "wristwatch",
           "fancy_sunglasses",
           "gloves_tactical",
-		  "flak vest",
+		      "flak vest",
           "helmet_army",
           "webbing_belt",
           "legpouch_large"
@@ -188,7 +188,7 @@
           "wristwatch",
           "fancy_sunglasses",
           "gloves_tactical",
-		  "flak vest",
+		      "flak vest",
           "helmet_army",
           "webbing_belt",
           "legpouch_large"
@@ -231,7 +231,7 @@
           "wristwatch",
           "fancy_sunglasses",
           "gloves_tactical",
-		  "flak vest",
+		      "flak vest",
           "helmet_army",
           "webbing_belt",
           "legpouch_large"
@@ -267,10 +267,10 @@
       "both": {
         "items": [
           "pants_army",
-		  "lightjacket_army",
+		      "lightjacket_army",
           "socks",
           "undershirt",
-		  "tactical flak vest",
+		      "tactical flak vest",
           "boots_combat",
           "wristwatch",
           "fancy_sunglasses",
@@ -309,10 +309,10 @@
       "both": {
         "items": [
           "pants_army",
-		  "lightjacket_army",
+		      "lightjacket_army",
           "socks",
           "undershirt",
-		  "tactical flak vest",
+		      "tactical flak vest",
           "boots_combat",
           "wristwatch",
           "fancy_sunglasses",
@@ -340,7 +340,7 @@
     "points": 4,
     "skills": [ { "level": 2, "name": "driving" },{ "level": 3, "name": "electronics" }, { "level": 5, "name": "mechanics" } ],
     "vehicle": "civilianhelicopter_Gyrocopter",
-	"items": {
+	  "items": {
       "both": {
         "items": [ "pants_cargo", "wrench", "jerrycan", "socks", "polo_shirt", "smart_phone", "boots", "wristwatch", "fancy_sunglasses" ],
         "entries": [
@@ -358,11 +358,11 @@
     "points": 6,
     "skills": [ { "level": 3, "name": "driving" },{ "level": 2, "name": "electronics" },{ "level": 1, "name": "gun" },{ "level": 1, "name": "survival" },{ "level": 2, "name": "fabrication" },{ "level": 1, "name": "firstaid" }, { "level": 3, "name": "mechanics" } ],
     "vehicle": "civilianhelicopter_SolarGyrocopter",
-	"items": {
+	  "items": {
       "both": {
         "items": [ "pants_army", "multitool", "water_clean", "water_clean", "mre_chilimac_box", "mre_beefstew_box", "socks", "low-grade kevlar", "lightjacket_army", "daypack", "smart_phone", "boots_combat", "wristwatch", "sunglasses", "helmet_skid" ],
         "entries": [ 
-		{ "item": "38_fmj", "charges": 20 },
+		      { "item": "38_fmj", "charges": 20 },
           { "item": "cop_38", "ammo-item": "38_fmj", "charges": 4, "container-item": "holster"  }]
       },
       "male": [ "boxer_shorts" ],
@@ -377,11 +377,11 @@
     "points": 6,
     "skills": [ { "level": 3, "name": "driving" },{ "level": 2, "name": "electronics" },{ "level": 1, "name": "gun" },{ "level": 1, "name": "survival" },{ "level": 2, "name": "fabrication" },{ "level": 1, "name": "firstaid" }, { "level": 3, "name": "mechanics" } ],
     "vehicle": "survivorhelicopter_Volare",
-	"items": {
+	  "items": {
       "both": {
         "items": [ "pants_army", "multitool", "water_clean", "water_clean", "mre_chilimac_box", "mre_beefstew_box", "socks", "heavy kevlar vest",  "backpack", "smart_phone", "boots_hiking", "wristwatch", "sunglasses", "helmet_skid" ],
         "entries": [ 
-		{ "item": "fn57mag", "charges": 20 },
+		      { "item": "fn57mag", "charges": 20 },
           { "item": "fn57", "ammo-item": "57mm", "charges": 20, "container-item": "holster"  }]
       },
       "male": [ "boxer_shorts" ],
@@ -396,11 +396,13 @@
     "points": 6,
     "skills": [ { "level": 2, "name": "driving" },{ "level": 2, "name": "electronics" },{ "level": 1, "name": "rifle" },{ "level": 1, "name": "survival" },{ "level": 3, "name": "fabrication" }, { "level": 5, "name": "mechanics" } ],
     "vehicle": "survivorhelicopter_PredatorGyrocopter",
-	"items": {
+	  "items": {
       "both": {
         "items": [ "touring_suit", "tool_belt", "jerrycan", "mbag", "wrench", "socks","smart_phone", "boots", "wristwatch", "helmet_motor" ],
         "entries": [ 
-          { "item": "tec9", "ammo-item": "9mmfmj", "charges": 32, "container-item": "holster"  }]
+          { "item": "tec9", "ammo-item": "9mmfmj", "charges": 32, "container-item": "holster"  },
+          { "item": "tec9mag", "ammo-item": "9mmfmj" , "charges": 32}
+        ]
       },
       "male": [ "boxer_shorts" ],
       "female": [ "bra", "boy_shorts" ]
@@ -414,11 +416,13 @@
     "points": 8,
     "skills": [ { "level": 2, "name": "driving" },{ "level": 2, "name": "electronics" },{ "level": 1, "name": "rifle" },{ "level": 1, "name": "survival" },{ "level": 3, "name": "fabrication" }, { "level": 5, "name": "mechanics" } ],
     "vehicle": "survivorhelicopter_skylark",
-	"items": {
+	  "items": {
       "both": {
         "items": [ "touring_suit", "tool_belt", "jerrycan", "mbag", "wrench", "socks","smart_phone", "boots_hiking", "wristwatch", "helmet_skid" ],
         "entries": [ 
-          { "item": "mac_10", "ammo-item": "9mmfmj", "charges": 30, "container-item": "holster"  }]
+          { "item": "mac_10", "ammo-item": "45_acp", "charges": 30, "container-item": "holster"  },
+          { "item": "mac10mag","ammo-item": "45_acp", "charges": 30}
+        ]
       },
       "male": [ "boxer_shorts" ],
       "female": [ "bra", "boy_shorts" ]
@@ -493,14 +497,14 @@
         "items": [
           "pants_army",
           "low-grade kevlar",
-		  "dress_shirt",
+		      "dress_shirt",
           "helmet_riot",
           "glasses_bal",
           "gloves_fingerless",
           "socks",
-		  "lighter",
-		  "knee_pads",
-		  "cheap_ultralight_carrier",
+		      "lighter",
+		      "knee_pads",
+		      "cheap_ultralight_carrier",
           "boots_hiking",
           "wristwatch",
           "slingpack"
@@ -541,10 +545,10 @@
           "glasses_bal",
           "gloves_tactical",
           "socks_wool",
-		  "lighter",
-		  "knee_pads",
-		  "elbow_pads",
-		  "mask_ski",
+		      "lighter",
+		      "knee_pads",
+		      "elbow_pads",
+		      "mask_ski",
           "boots_combat",
           "wristwatch",
           "mbag"
@@ -554,7 +558,7 @@
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_hunting", "container-item": "sheath" },
           { "item": "cheap_ultralight_carrier", "contents-group": [ "merc_mags_ak74" ] },
-		  { "item": "cz75", "ammo-item": "9mmfmj", "charges": 13, "container-item": "holster" },
+		      { "item": "cz75", "ammo-item": "9mmfmj", "charges": 13, "container-item": "holster" },
           { "item": "ak74", "ammo-item": "545", "charges": 30, "contents-item": [ "shoulder_strap", "red_dot_sight"] }
         ]
       },
@@ -702,9 +706,9 @@
           "pants",
           "tshirt",
           "socks",
-	  "trenchcoat",
+	        "trenchcoat",
           "hat_fur",
-	  "two_way_radio",
+	        "two_way_radio",
           "smart_phone",
           "sweater",
           "knuckle_brass",
@@ -752,8 +756,8 @@
           "tshirt",
           "socks",
           "trenchcoat",
-	  "fedora",
-	  "two_way_radio",
+	        "fedora",
+	        "two_way_radio",
           "suppressor_compact",
           "switchblade",
           "smart_phone",
@@ -801,8 +805,8 @@
           "tshirt",
           "socks",
           "trenchcoat",
-	  "fedora",
-	  "two_way_radio",
+	        "fedora",
+	        "two_way_radio",
           "suppressor_compact",
           "throwing_knife",
           "smart_phone",
@@ -847,9 +851,9 @@
           "pants",
           "tshirt",
           "socks",
-	  "trenchcoat",
+	        "trenchcoat",
           "hat_fur",
-	  "two_way_radio",
+	        "two_way_radio",
           "knuckle_brass",
           "dress_shoes",
           "suppressor_compact",
@@ -890,8 +894,8 @@
           "pants",
           "socks",
           "trenchcoat",
-	  "fedora",
-	  "two_way_radio",
+	        "fedora",
+	        "two_way_radio",
           "suppressor_compact",
           "switchblade",
           "tshirt",
@@ -933,8 +937,8 @@
           "pants",
           "socks",
           "trenchcoat",
-	  "fedora",
-	  "two_way_radio",
+	        "fedora",
+	        "two_way_radio",
           "suppressor_compact",
           "throwing_knife",
           "tshirt",
@@ -981,21 +985,21 @@
       "both": {
         "items": [
       "socks_wool",
-	  "kevlar",
+	    "kevlar",
       "trenchcoat",
-	  "fedora",
-	  "smart_phone",
-	  "electrohack",
+	    "fedora",
+	    "smart_phone",
+	    "electrohack",
       "suppressor_compact",
       "dress_shirt",
       "dress_shoes",
-	  "rx12_injector",
+	    "rx12_injector",
       "multitool",
-	  "fitover_sunglasses",
-	  "breeches",
-	  "picklocks",
+	    "fitover_sunglasses",
+	    "breeches",
+	    "picklocks",
       "file",
-	  "grenade_emp",
+	    "grenade_emp",
       "diving_watch"
         ],
         "entries": [
