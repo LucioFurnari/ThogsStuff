@@ -210,7 +210,7 @@
       [ "electric_motorbike", 400 ],
       [ "armedwillysjeep", 150 ],
       [ "rocketeerwillysjeep", 75 ],
-      [ "gyrocopter", 2 ],
+      [ "civilianhelicopter_Gyrocopter", 2 ],
       [ "militaryhelicopter_salvagedTHGassault", 10 ]
     ]
   },
@@ -309,7 +309,7 @@
       [ "electric_motorbike", 400 ],
       [ "armedwillysjeep", 150 ],
       [ "rocketeerwillysjeep", 75 ],
-      [ "gyrocopter", 2 ],
+      [ "civilianhelicopter_Gyrocopter", 2 ],
       [ "militarycar_ProwlerIFV", 50 ],
       [ "militarycar_FerretScoutCar", 100 ]
     ]
@@ -355,7 +355,7 @@
       [ "electric_motorbike", 250 ],
       [ "electric_motorbike_sidecar", 100 ],
       [ "electricquad_bike", 100 ],
-      [ "gyrocopter", 1 ],
+      [ "civilianhelicopter_Gyrocopter", 1 ],
       [ "militarycar_ProwlerIFV", 70 ],
       [ "militarycar_FerretScoutCar", 50 ]
     ]
